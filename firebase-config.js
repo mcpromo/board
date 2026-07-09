@@ -12,12 +12,12 @@
    ========================================================== */
 
 const firebaseConfig = {
-  apiKey: "ВСТАВЬТЕ_СЮДА",
-  authDomain: "ВСТАВЬТЕ_СЮДА",
-  projectId: "ВСТАВЬТЕ_СЮДА",
-  storageBucket: "ВСТАВЬТЕ_СЮДА",
-  messagingSenderId: "ВСТАВЬТЕ_СЮДА",
-  appId: "ВСТАВЬТЕ_СЮДА",
+  apiKey: "AIzaSyDsQWGkKW69EZQHl8KikoVEACFJnMMahI4",
+  authDomain: "oreboard-f437c.firebaseapp.com",
+  projectId: "oreboard-f437c",
+  storageBucket: "oreboard-f437c.firebasestorage.app",
+  messagingSenderId: "881165868588",
+  appId: "1:881165868588:web:5d23f5e02858c67e413b89",
 };
 
 /* Необязательный лёгкий PIN-код на вход в сайт.
